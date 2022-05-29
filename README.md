@@ -2,6 +2,8 @@
 
 This pack has some paths that I didn't find in TacO, ReActif or Tekkit's Guides.
 
+To use, save on POIs folder.
+
 It has:
 - [Passiflora farming path](README.md#passiflora-farming)
 - [Orichalcum farming path](README.md#orichalcum-farming)
