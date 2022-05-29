@@ -52,7 +52,7 @@ It becomes reduntant with the following item.
 
 ## Verdant Brink night bosses paths
 
-I would still get lost with the map icons, so I made paths to help me go from one boss to another. They don't show up on the map.
+I would still get lost with the map icons, so I made paths to help me go from one boss to another. They only show up in the terrain/main screen.
 
 Fully upgraded mounts could be mandatory, and some paths require a fully upgraded Glider.
 
