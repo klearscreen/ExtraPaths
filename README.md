@@ -46,7 +46,7 @@ It was made with fully upgraded Springer and Glider, so I don't know if they're 
 
 ## Verdant Brink night bosses icons
 
-I made this to help me coordinate with randos. It only shows up in the map.
+I made this to help me coordinate with randos. They only shows up in the map.
 
 It becomes reduntant with the following item.
 
