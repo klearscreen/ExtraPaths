@@ -40,7 +40,7 @@ Spearmarshal's Plea (closest waypoint is [&BHQKAAA=])
 
 A very kind soul told me I was stupid for doing Rally Point events and said I could just go from the Pact Encampment Waypoint to the Wyvern Matriarch, then left and I had to Google.
 
-This path goes from [&BAgIAAA=] to Wyvern Matriarch by climbing the vine in the middle of the map.
+This path goes from `[&BAgIAAA=]` to Wyvern Matriarch by climbing the vine in the middle of the map.
 
 It was made with fully upgraded Springer and Glider, so I don't know if they're mandatory.
 
