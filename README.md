@@ -6,7 +6,6 @@ To use, save on POIs folder.
 
 It has:
 - [Passiflora farming path](README.md#passiflora-farming)
-- [Orichalcum farming path](README.md#orichalcum-farming)
 - [Verdant Brink path from floor to Wyvern Matriarch](README.md#pact-encampment-waypoint-to-wyvern-matriarch)
 - [Verdant Brink night bosses icons in the map](README.md#verdant-brink-night-bosses-icons)
 - [Verdant Brink paths between night bosses](README.md#verdant-brink-night-bosses-paths)
@@ -17,26 +16,6 @@ It has:
 This was heavily inspired by Tekkit's guide. I made it because I had to farm chef levels and didn't want to think hard.
 
 It appears only in Southsun Cove.
-
-## Orichalcum farming
-
-Also heavily inspired by Tekkit's guide. It requires Path of Fire and the Spinger and Skimmer mounts.
-
-This was taken directly from [Omnicron's post](https://en-forum.guildwars2.com/topic/38543-rich-orichalcum-node-locations/).
-
-It follows these waypoints:
-```
-[&BLsKAAA=]
-[&BEAKAAA=]
-[&BJMKAAA=]
-[&BJEKAAA=]
-[&BNwKAAA=]
-[&BHcKAAA=]
-[&BMEKAAA=]
-[&BEoKAAA=]
-Spearmarshal's Plea (closest waypoint is [&BHQKAAA=])
-[&BEMLAAA=]
-```
 
 ## Pact Encampment Waypoint to Wyvern Matriarch
 
