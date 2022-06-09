@@ -1,7 +1,7 @@
 <OverlayData>
 	<MarkerCategory name="hguide"				DisplayName="Henry's Guides">
 		<MarkerCategory name="about"			DisplayName="About">
-			<MarkerCategory name="version"		DisplayName="Version 2.0"	IsSeparator="1"/>
+			<MarkerCategory name="version"		DisplayName="Version 2.1"	IsSeparator="1"/>
 			<MarkerCategory name="basedon"		DisplayName="Based on Tekkit's Guides"	IsSeparator="1"/>
 			<MarkerCategory name="donate"		DisplayName="Made by SecaNaChuva.9512"	IsSeparator="1"/>
 		</MarkerCategory>
@@ -79,15 +79,6 @@
 			</MarkerCategory>
 			<MarkerCategory name="tetradtoaxe"	DisplayName="Tetrad champions to Axemaster">
 				<MarkerCategory name="route"	DisplayName="Toggle Route"	color="22a21b"	animSpeed="1"/>
-				<MarkerCategory name="sign"		DisplayName="Toggle Signs"/>
-			</MarkerCategory>
-		</MarkerCategory>
-		<MarkerCategory name="gatheringexp"		DisplayName="Gathering Nodes"	minSize="16"	maxSize="32"	mapDisplaySize="32"	fadeNear="3000"	fadeFar="4000">
-			<MarkerCategory name="separatorore"	DisplayName="-RICH NODES-"	IsSeparator="1"/>
-			<MarkerCategory name="orichalcum"	DisplayName="Orichalcum Ore - Crystal Oasis | Amnoon WP"	iconFile="Data\HenrysGuides\orichalcum.png">
-				<MarkerCategory name="info"		DisplayName="Based on Omnicron.2467's guide"	IsSeparator="1"/>
-				<MarkerCategory name="node"		DisplayName="Toggle Nodes"/>
-				<MarkerCategory name="route"	DisplayName="Toggle Routes"	color="ea0bb8"	animSpeed="1"/>
 				<MarkerCategory name="sign"		DisplayName="Toggle Signs"/>
 			</MarkerCategory>
 		</MarkerCategory>
@@ -177,50 +168,5 @@
 		<!-- tetradtoaxe -->
 		<Trail trailData="Data\HenrysGuides\tetradtoaxe.trl"	type="hguide.verdantpaths.tetradtoaxe.route"/>
 		<POI MapID="1052"	xpos="-449.748"	ypos="712.279"	zpos="-133.644"	type="hguide.verdantpaths.tetradtoaxe.sign"	iconFile="Data\HenrysGuides\toaxemaster.png"/>
-	
-	<!-- Orichalcum -->
-		<!-- Crystal Oasis -->
-		<POI MapID="1210"	xpos="-718.873"	ypos="1.103"	zpos="-98.394"	type="hguide.gatheringexp.orichalcum.node"/>
-		<Trail trailData="Data\HenrysGuides\orichalcum1.trl"	type="hguide.gatheringexp.orichalcum.route"/>
-		<POI MapID="1210"	xpos="235.182"	ypos="41.106"	zpos="-633.123"	type="hguide.gatheringexp.orichalcum.sign"	iconFile="Data\HenrysGuides\orichalcumto2.png"	mapDisplaySize="0"/>
-		
-		<POI MapID="1210"	xpos="704.733"	ypos="122.854"	zpos="210.090"	type="hguide.gatheringexp.orichalcum.node"/>
-		<Trail trailData="Data\HenrysGuides\orichalcum2.trl"	type="hguide.gatheringexp.orichalcum.route"/>
-		<POI MapID="1210"	xpos="710.234"	ypos="221.876"	zpos="404.567"	type="hguide.gatheringexp.orichalcum.sign"	iconFile="Data\HenrysGuides\orichalcumto3.png"	mapDisplaySize="0"/>
-		
-		<POI MapID="1210"	xpos="1078.904"	ypos="19.546"	zpos="-361.787"	type="hguide.gatheringexp.orichalcum.node"/>
-		<Trail trailData="Data\HenrysGuides\orichalcum3.trl"	type="hguide.gatheringexp.orichalcum.route"/>
-		<POI MapID="1210"	xpos="1407.828"	ypos="104.973"	zpos="-149.974"	type="hguide.gatheringexp.orichalcum.sign"	iconFile="Data\HenrysGuides\orichalcumto4.png"	mapDisplaySize="0"/>
-		
-		<!-- Desert Highlands -->
-		<POI MapID="1211"	xpos="-283.706"	ypos="12.566"	zpos="-513.623"	type="hguide.gatheringexp.orichalcum.node"/>
-		<Trail trailData="Data\HenrysGuides\orichalcum4.trl"	type="hguide.gatheringexp.orichalcum.route"/>
-		<POI MapID="1211"	xpos="-125.497"	ypos="297.717"	zpos="36.919"	type="hguide.gatheringexp.orichalcum.sign"	iconFile="Data\HenrysGuides\orichalcumto5.png"	mapDisplaySize="0"/>
-		
-		<!-- The Desolation -->
-		<POI MapID="1226"	xpos="33.931"	ypos="0.082"	zpos="1435.882"	type="hguide.gatheringexp.orichalcum.node"/>
-		<Trail trailData="Data\HenrysGuides\orichalcum5.trl"	type="hguide.gatheringexp.orichalcum.route"/>
-		<POI MapID="1226"	xpos="1062.905"	ypos="52.336"	zpos="1435.662"	type="hguide.gatheringexp.orichalcum.sign"	iconFile="Data\HenrysGuides\orichalcumto6.png"	mapDisplaySize="0"/>
-		
-		<POI MapID="1226"	xpos="-547.074"	ypos="239.194"	zpos="-1206.394"	type="hguide.gatheringexp.orichalcum.node"/>
-		<Trail trailData="Data\HenrysGuides\orichalcum6.trl"	type="hguide.gatheringexp.orichalcum.route"/>
-		<POI MapID="1226"	xpos="-188.757"	ypos="222.236"	zpos="-1319.588"	type="hguide.gatheringexp.orichalcum.sign"	iconFile="Data\HenrysGuides\orichalcumto7.png"	mapDisplaySize="0"/>
-		
-		<POI MapID="1226"	xpos="854.870"	ypos="261.830"	zpos="-236.363"	type="hguide.gatheringexp.orichalcum.node"/>
-		<Trail trailData="Data\HenrysGuides\orichalcum7.trl"	type="hguide.gatheringexp.orichalcum.route"/>
-		<POI MapID="1226"	xpos="761.388"	ypos="349.632"	zpos="44.351"	type="hguide.gatheringexp.orichalcum.sign"	iconFile="Data\HenrysGuides\orichalcumto8.png"	mapDisplaySize="0"/>
-		
-		<!-- Domain of Vabbi -->
-		<POI MapID="1248"	xpos="-589.487"	ypos="111.804"	zpos="-433.152"	type="hguide.gatheringexp.orichalcum.node"/>
-		<Trail trailData="Data\HenrysGuides\orichalcum8.trl"	type="hguide.gatheringexp.orichalcum.route"/>
-		<POI MapID="1248"	xpos="-949.443"	ypos="107.673"	zpos="-753.145"	type="hguide.gatheringexp.orichalcum.sign"	iconFile="Data\HenrysGuides\orichalcumto9.png"	mapDisplaySize="0"/>
-		
-		<POI MapID="1248"	xpos="1427.681"	ypos="154.408"	zpos="-660.906"	type="hguide.gatheringexp.orichalcum.node"/>
-		<Trail trailData="Data\HenrysGuides\orichalcum9.trl"	type="hguide.gatheringexp.orichalcum.route"/>
-		<POI MapID="1248"	xpos="1446.392"	ypos="155.948"	zpos="-409.370"	type="hguide.gatheringexp.orichalcum.sign"	iconFile="Data\HenrysGuides\orichalcumto10.png"	mapDisplaySize="0"/>
-		
-		<!-- Sandswept Isles -->
-		<POI MapID="1271"	xpos="-131.467"	ypos="0.846"	zpos="684.916"	type="hguide.gatheringexp.orichalcum.node"/>
-		<Trail trailData="Data\HenrysGuides\orichalcum10.trl"	type="hguide.gatheringexp.orichalcum.route"/>
 	</POIs>
 </OverlayData>
